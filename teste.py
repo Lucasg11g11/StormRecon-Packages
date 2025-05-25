@@ -1,3 +1,7 @@
+class teste:
+    args = "--arg"
+    description = "Start a simulated hack countdown"
+
 def run(args):
     print("Comando personalizado 'ola' executado!")
     if args:
